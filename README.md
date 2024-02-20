@@ -6,7 +6,8 @@ Technologies : PHP, MySQL, Java Script
 Features in the System 
 </br>
 </br>
-Admin Area : 
+Admin Area :
+
  <li>Admin Login & Log Out</li>
  <li>Admin Panel</li>
  <li>Active Users</li>
@@ -15,9 +16,9 @@ Admin Area :
  <li>Manage Users ( Add / Update Users )</li>
  <li>Admin Profile ( Edit Profile Details / Edit Passwords )</li>
 
-</br>
+
 User Area : 
-</br>
+
   <li>User Login & Log Out</li>
   <li>User Registration</li>
   <li>User Dashboard </li>
