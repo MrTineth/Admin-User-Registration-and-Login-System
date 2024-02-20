@@ -26,7 +26,7 @@ User Area :
   <li>User Profile ( Edit Profile Details / Edit Passwords )</li>
 
 </br>
-![1](https://github.com/MrTineth/Admin-User-Registration-and-Login-System/assets/106744622/d30a058c-ecdb-4e68-8cfa-0b315368d0b4)
+![1](https://github.com/MrTineth/Admin-User-Registration-and-Login-System/assets/106744622/5cf567ca-69a2-4f72-8b92-c5f761731c86)
 </br>
 
 ![2](https://github.com/MrTineth/Admin-User-Registration-and-Login-System/assets/106744622/47a02155-f91e-457a-8eaf-68b2174d7ec2)
