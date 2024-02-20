@@ -23,7 +23,7 @@ User Area :
   <li>User Login & Log Out</li>
   <li>User Registration</li>
   <li>User Dashboard </li>
-  <li>User Profile ( Edit Profile Details / Edit Passwords )</li>
+  <li>User Profile ( Edit Profile Details / Edit Passwords )</li></br></br>
 
 
 ![1](https://github.com/MrTineth/Admin-User-Registration-and-Login-System/assets/106744622/5cf567ca-69a2-4f72-8b92-c5f761731c86)
