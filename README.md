@@ -3,7 +3,7 @@ Admin, User Registration and Login System Including Admin Panel and User Dashboa
 Technologies : PHP, MySQL, Java Script
 
 Features in the System 
-
+<ul>
 Admin Area : 
  Admin Login & Log Out
  Admin Panel
@@ -12,7 +12,7 @@ Admin Area :
  User Status
  Manage Users ( Add / Update Users )
  Admin Profile ( Edit Profile Details / Edit Passwords )
-
+</ul>
 User Area : 
  User Login & Log Out
  User Registration
