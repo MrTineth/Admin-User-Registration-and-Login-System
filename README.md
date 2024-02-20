@@ -1,8 +1,9 @@
 # Admin-User-Registration-and-Login-System
 Admin, User Registration and Login System Including Admin Panel and User Dashboard</br>
 Technologies : PHP, MySQL, Java Script
-<ul>
+</br>
 Features in the System 
+<ul>
 Admin Area : 
  <li>Admin Login & Log Out</li>
  <li>Admin Panel</li>
@@ -11,11 +12,12 @@ Admin Area :
  <li>User Status</li>
  <li>Manage Users ( Add / Update Users )</li>
  <li>Admin Profile ( Edit Profile Details / Edit Passwords )</li>
-
+</ul>
+<ul>
 User Area : 
   <li>User Login & Log Out</li>
   <li>User Registration</li>
   <li>User Dashboard </li>
   <li>User Profile ( Edit Profile Details / Edit Passwords )</li>
-</u/>
+</ul>
 
