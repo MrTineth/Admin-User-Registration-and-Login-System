@@ -1,6 +1,6 @@
 # Admin-User-Registration-and-Login-System
 Admin, User Registration and Login System Including Admin Panel and User Dashboard</br>
-Technologies : PHP, MySQL, Java Script
+Technologies : PHP, MySQL, Java Script, Bootstrap, jQuery
 </br>
 </br>
 Features in the System 
