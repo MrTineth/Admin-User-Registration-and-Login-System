@@ -16,6 +16,7 @@ Admin Area :
  <li>Manage Users ( Add / Update Users )</li>
  <li>Admin Profile ( Edit Profile Details / Edit Passwords )</li>
 
+</br>
 
 User Area : 
 
